@@ -13,6 +13,6 @@
 ### [github](https://github.com/xinshenghu)  
 这个主要写写前端代码
 
-### [gitee](hhttps://gitee.com/xinshenghu/)  
-这个主要写写前端代码
+### [gitee](https://gitee.com/xinshenghu/)  
+这个主要写写后端代码
 
