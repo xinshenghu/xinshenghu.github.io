@@ -6,5 +6,13 @@
 这个号丢了之后，文章还在，但是少了好多，所以偶尔再写写。
 
 ### [csdn](https://blog.csdn.net/xinshenghu) 
-这个号丢了之后找回，然后文章都没了，后来就不写了。就只是看看。 
+这个号丢了之后找回，然后文章都没了，后来就不写了。就只是看看。
+
+
+## 代码
+### [github](https://github.com/xinshenghu)  
+这个主要写写前端代码
+
+### [gitee](hhttps://gitee.com/xinshenghu/)  
+这个主要写写前端代码
 
